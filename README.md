@@ -1,5 +1,4 @@
-# -AI
-
+# NanoRise-AI
 A comprehensive loan application and credit scoring system that leverages AI to assess business loan applications.
 
 ## Features
@@ -37,8 +36,8 @@ A comprehensive loan application and credit scoring system that leverages AI to 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/FinTrust-AI.git
-cd FinTrust-AI
+git clone https://github.com/yourusername/NanoRise_AI.git
+cd NanoRise_AI
 ```
 
 2. Install frontend dependencies:
@@ -70,7 +69,7 @@ npm run dev
 ## Project Structure
 
 ```
-FinTrust-AI/
+NanoRise_AI/
 ├── frontend/
 │   ├── public/
 │   ├── src/
